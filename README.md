@@ -8,3 +8,5 @@ Download the following Database to use for the study.
 
 
 Individual instructions and study materials are available in specific files attached to this repo.
+
+FOr further reading check out https://sqlbolt.com/ and https://mode.com/
